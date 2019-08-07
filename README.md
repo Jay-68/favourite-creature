@@ -9,7 +9,7 @@ No known bugs.
 ## Technologies Used
 Basic HTML was used to create this webpage with all its contents.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+To support this project through contributions and suggestions reach me at <ngari.james.n@gmail.com>
 ### License
 *MIT*
 
